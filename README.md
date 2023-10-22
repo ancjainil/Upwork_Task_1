@@ -7,7 +7,3 @@ Welcome to the Upwork Tasks Directory. This directory contains Python scripts cr
 ## Directory Structure
 
 This directory holds Python scripts developed for specific project tasks. Each script corresponds to a client's requirement.
-
-Please reach out if you have any questions or need further assistance.
-
-Thank you for your work on these tasks.
